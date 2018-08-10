@@ -1,0 +1,26 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.3.0"
+  },
+  "author": "Gryf/ElGato",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.0",
+    "discord.js-music": "^2.1.0",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "node-opus": "^0.3.0",
+    "random-puppy": "^1.1.0",
+    "request": "^2.87.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
